@@ -1,0 +1,16 @@
+
+Nome: Bayern
+País: Alemanha
+Cidade: Munique
+Liga: Bundesliga
+Jogador de Destaque: Lewandowski
+
+
+
+Nome: Borussia Dortmund
+País: Alemanha
+Cidade: Dortmund
+Liga: Bundesliga
+Jogador de Destaque: Haaland
+
+
